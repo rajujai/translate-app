@@ -7,7 +7,9 @@ function exchange(func){
         let temp2 = lan2.selectedIndex;
         lan1.selectedIndex = temp2;
         lan2.selectedIndex = temp1;
-        func();
+        if(document.getElementById("inp").value>2){
+            func();
+        }
     })
 }
 
