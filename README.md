@@ -19,9 +19,9 @@ This is translator platform developed by me with the help of https://libretransl
 
 Checkout live website : 
 
-```bash
-  https://translate-application.netlify.app/
-```
+
+ https://translate-application.netlify.app/
+
 
 
 ## Tech Stack
